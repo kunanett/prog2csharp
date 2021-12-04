@@ -1,0 +1,15 @@
+C:\Users\Asus\RiderProjects\proba\SztringFordit\bin\Debug\net6.0\SztringFordit.exe
+C:\Users\Asus\RiderProjects\proba\SztringFordit\bin\Debug\net6.0\SztringFordit.deps.json
+C:\Users\Asus\RiderProjects\proba\SztringFordit\bin\Debug\net6.0\SztringFordit.runtimeconfig.json
+C:\Users\Asus\RiderProjects\proba\SztringFordit\bin\Debug\net6.0\SztringFordit.dll
+C:\Users\Asus\RiderProjects\proba\SztringFordit\bin\Debug\net6.0\ref\SztringFordit.dll
+C:\Users\Asus\RiderProjects\proba\SztringFordit\bin\Debug\net6.0\SztringFordit.pdb
+C:\Users\Asus\RiderProjects\proba\SztringFordit\obj\Debug\net6.0\SztringFordit.csproj.AssemblyReference.cache
+C:\Users\Asus\RiderProjects\proba\SztringFordit\obj\Debug\net6.0\SztringFordit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\RiderProjects\proba\SztringFordit\obj\Debug\net6.0\SztringFordit.AssemblyInfoInputs.cache
+C:\Users\Asus\RiderProjects\proba\SztringFordit\obj\Debug\net6.0\SztringFordit.AssemblyInfo.cs
+C:\Users\Asus\RiderProjects\proba\SztringFordit\obj\Debug\net6.0\SztringFordit.csproj.CoreCompileInputs.cache
+C:\Users\Asus\RiderProjects\proba\SztringFordit\obj\Debug\net6.0\SztringFordit.dll
+C:\Users\Asus\RiderProjects\proba\SztringFordit\obj\Debug\net6.0\ref\SztringFordit.dll
+C:\Users\Asus\RiderProjects\proba\SztringFordit\obj\Debug\net6.0\SztringFordit.pdb
+C:\Users\Asus\RiderProjects\proba\SztringFordit\obj\Debug\net6.0\SztringFordit.genruntimeconfig.cache

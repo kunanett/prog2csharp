@@ -1,0 +1,15 @@
+C:\Users\Asus\RiderProjects\proba\Filmek\bin\Debug\net6.0\Filmek.exe
+C:\Users\Asus\RiderProjects\proba\Filmek\bin\Debug\net6.0\Filmek.deps.json
+C:\Users\Asus\RiderProjects\proba\Filmek\bin\Debug\net6.0\Filmek.runtimeconfig.json
+C:\Users\Asus\RiderProjects\proba\Filmek\bin\Debug\net6.0\Filmek.dll
+C:\Users\Asus\RiderProjects\proba\Filmek\bin\Debug\net6.0\ref\Filmek.dll
+C:\Users\Asus\RiderProjects\proba\Filmek\bin\Debug\net6.0\Filmek.pdb
+C:\Users\Asus\RiderProjects\proba\Filmek\obj\Debug\net6.0\Filmek.csproj.AssemblyReference.cache
+C:\Users\Asus\RiderProjects\proba\Filmek\obj\Debug\net6.0\Filmek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\RiderProjects\proba\Filmek\obj\Debug\net6.0\Filmek.AssemblyInfoInputs.cache
+C:\Users\Asus\RiderProjects\proba\Filmek\obj\Debug\net6.0\Filmek.AssemblyInfo.cs
+C:\Users\Asus\RiderProjects\proba\Filmek\obj\Debug\net6.0\Filmek.csproj.CoreCompileInputs.cache
+C:\Users\Asus\RiderProjects\proba\Filmek\obj\Debug\net6.0\Filmek.dll
+C:\Users\Asus\RiderProjects\proba\Filmek\obj\Debug\net6.0\ref\Filmek.dll
+C:\Users\Asus\RiderProjects\proba\Filmek\obj\Debug\net6.0\Filmek.pdb
+C:\Users\Asus\RiderProjects\proba\Filmek\obj\Debug\net6.0\Filmek.genruntimeconfig.cache
